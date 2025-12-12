@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of NeuroLab AI",
+  "description": "An adaptive, AI-driven educational platform that generates interactive simulated labs, visual learning paths, and gamified challenges for any topic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
